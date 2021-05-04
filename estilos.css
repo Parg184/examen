@@ -1,0 +1,41 @@
+body{
+    background-image: url(fondo.jpg);
+    font-family: 'arial';
+}
+
+h1{
+    text-align: center;
+}
+
+marquee{
+    background-color: white;
+    padding: 10px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+a{
+    float: right;
+}
+
+.pagina{
+    background-color: white;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+img{
+    margin: 10px;
+    height: 360px;
+    transition: all 1s;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
